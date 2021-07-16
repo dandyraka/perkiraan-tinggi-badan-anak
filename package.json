@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "readline-sync": "^1.4.10"
+  }
+}
