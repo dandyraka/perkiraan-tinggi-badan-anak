@@ -16,7 +16,7 @@ inquirer
     {
       type: 'list',
       name: 'gender',
-      message: 'Janis kelamin?',
+      message: 'Janis kelamin anak?',
       choices: ['Laki-laki', 'Perempuan'],
     },
   ])
